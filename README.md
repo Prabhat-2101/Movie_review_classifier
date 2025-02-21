@@ -25,10 +25,7 @@ The model is trained on the **IMDB Dataset of 50K Movie Reviews**, which consist
 ## 🛠️ Installation & Setup  
 
 ### **1️⃣ Install Dependencies**  
-Run this in **Google Colab**:  
-
-```bash
-!pip install -r requirements.txt ```
+Run this in **Google Colab**: !pip install -r requirements.txt 
 
 
 ⚡ Model Performance & Insights
