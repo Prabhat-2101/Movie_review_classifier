@@ -1,0 +1,12 @@
+tqdm
+pandas
+scikit-learn
+joblib
+matplotlib
+nltk
+numpy
+spacy
+re
+string
+matplotlib
+gradio

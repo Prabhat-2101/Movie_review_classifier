@@ -1,0 +1,29 @@
+1. Sarcastic Reviews
+"Oh wow, what an amazing movie! If only I had a pillow to sleep through the entire thing."
+"This movie changed my life... I now double-check reviews before watching anything."
+"Absolutely breathtaking! I especially loved the part where nothing happened for two hours."
+
+2. Mixed Sentiments
+"The cinematography was stunning, but the plot was as thin as a sheet of paper."
+"I loved the lead actor’s performance, but the script was so bad I wished the movie had subtitles explaining why it existed."
+"The action scenes were fantastic, but the romance subplot was unnecessary and cringeworthy."
+
+3. Ambiguous Reviews
+"It’s one of those movies that makes you think… mostly about why you wasted your time watching it."
+"It was so bad that it was actually entertaining. 10/10 for comedy, 0/10 for everything else."
+"A masterpiece in confusion. I have no idea what I just watched, but I think I liked it?"
+
+4. Overly Complex Language
+"The film’s attempt at blending existentialist themes with a postmodern deconstruction of genre tropes was intriguing, yet ultimately fell victim to its own narrative convolution."
+"A triumph of visual storytelling marred only by its insistence on metaphor-heavy dialogue, alienating all but the most patient viewers."
+"While the movie’s exploration of the human psyche was commendable, its esoteric symbolism rendered it inaccessible to the average audience."
+
+5. Unexpected Turns
+"At first, I thought it was the worst movie ever. Then the twist happened, and now I think it’s a genius piece of filmmaking."
+"The first half made me want to leave the theater, but the ending was so powerful it completely redeemed the film."
+"I went in expecting a terrible movie and was pleasantly surprised. Now I don’t know whether to call it good or just 'better than expected'."
+
+6. Troll Reviews (to test robustness)
+"This movie cured my insomnia. I slept like a baby through the whole thing!"
+"My dog watched this with me and he hasn’t barked since. I’m not sure if that’s good or bad."
+"The best part of this movie was the end credits, because it meant it was finally over."
