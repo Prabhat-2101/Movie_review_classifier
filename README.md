@@ -28,7 +28,7 @@ The model is trained on the **IMDB Dataset of 50K Movie Reviews**, which consist
 Run this in **Google Colab**:  
 
 ```bash
-!pip install -r requirements.txt
+!pip install -r requirements.txt ```
 
 
 ⚡ Model Performance & Insights
